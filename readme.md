@@ -2,10 +2,10 @@
 This project analyzes datasets and derives meaning from the data through visualization. Datasets analyzed are:
 
 
-[x] Spotify 2019 Top 50 songs  
-[ ] Top 10 Highest Grossing Films (1975 - 2018)
+- [x] Spotify 2019 Top 50 songs  
+- [ ] Top 10 Highest Grossing Films (1975 - 2018)
 
-## Spotify 2019 Top 50 Songs
+## 1. Spotify 2019 Top 50 Songs
 ### Variables
 - Track name
 - Artist name
